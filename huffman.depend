@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610323693 source:c:\users\micro systems\desktop\prynova\c\huffman\main.cpp
+	<iostream>
+	<string>
+	<queue>
+	<unordered_map>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<sstream>
+	<vector>
+	<iterator>
+	<dirent.h>
+
